@@ -1,0 +1,25 @@
+body {
+  background-color: blue;
+}
+h1 {
+  color: red;
+  font-size: 50px;
+}
+h2 {
+  color: green;
+}
+h1, h2 {
+  color: purple;
+}
+li.food {
+  color: orange;
+}
+li {
+  color: blue;
+}
+img.tacos {
+  width: 400px;
+}
+img.kitty {
+  width: 300px;
+}
